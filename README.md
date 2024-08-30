@@ -65,9 +65,10 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 <img height="140" width="140" src="https://github.com/user-attachments/assets/f93d7ed7-ee2f-4e7c-8fc8-9271c6181896">
-<img height="140" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMX7p-_Zo1LqsEfO1v3B6Zw0Jgvhk4vo1fKA&usqp=CAU">
+<img height="140" width="140" src="https://github.com/user-attachments/assets/4a78b60a-5f10-4283-b324-28161ed508cb">
 <img height="140" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASBParCnQhsRkKZ8opkkRjtk9XJ-MHdy0jA&usqp=CAU">
 <img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
+ <img height="140" width="140" src="https://github.com/user-attachments/assets/03a39cc1-3fc0-4513-a1c1-f48e6e0471e9">
 </p>
 
 -  Library:
