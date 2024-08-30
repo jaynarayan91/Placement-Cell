@@ -1,8 +1,14 @@
 ## Placement Cell - CUTM🚀
 
-##⭐ Introduction
 <br/>
-The Placement Cell Application is a Full Stack Application built using MongoDB, Spring Framework, Java, React, REST APIs, and CSS implements RestFul CRUD APIs along with CRUD Operations. This project is basically used for the purpose of assigning students to the interview slots of the incoming companies for the visit, at the backend for the employees to work. It manages both student & interview information along with the company visits. This website is only restricted for the use of employees.
+<p align="justify">
+<img src="https://github.com/user-attachments/assets/88a7b494-bcc0-4877-a79e-e2a958b4836c">
+</p>
+
+<h2>⭐ Introduction</h2>
+<br/>
+<p>
+The Placement Cell Application is a Full Stack Application built using MongoDB, Spring Framework, Java, React, REST APIs, and CSS implements RestFul CRUD APIs along with CRUD Operations. This project is basically used for the purpose of assigning students to the interview slots of the incoming companies for the visit, at the backend for the employees to work. It manages both student & interview information along with the company visits. This website is only restricted for the use of employees.</p>
 
 This website is completely Responsive across all the Devices.
 
