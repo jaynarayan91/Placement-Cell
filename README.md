@@ -80,28 +80,51 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
    -  crypto
    -  csv-stringify
    -  del
-   -  dotenv
-   -  ejs
-   -  express
-   -  express-ejs-layouts
-   -  express-session
-   -  express-validator
-   -  gulp-cssnano
-   -  gulp-imagemin
-   -  gulp-rev
-   -  gulp-sass
-   -  gulp-uglify-es
+   -  application properties
+   -  java
+   -  jwt
+   -  mvn
+   -  pom.xml
+   -  springboot jpa
+   -  mysql connector
+   -  springboot web
+   -  spring security
+   -  postman api
    -  json2csv
    -  mongoose
-   -  morgan
-   -  multer
-   -  node-sass-middleware
-   -  nodemon
-   -  noty
    -  passport
    -  passport-google-oauth
    -  passport-local
    -  rotating-file-stream
    -  validator
+-  Framework: springboot, Bootstrap
+-  Database: MongoDB,MySQL
+-  Version Control System: Git
+-  VCS Hosting: GitHub
+-  Programming / Scripting: Java
+-  Front-End: SCSS, EJS
+-  Runtime Environment: spring,react
+-  Integrated Development Environment: VSCode
+   <br/>
+   <br/>
+
+## 💻 Screens
+
+<p align="justify">
+<img src="https://github.com/user-attachments/assets/88a7b494-bcc0-4877-a79e-e2a958b4836c">
+<img src="https://github.com/user-attachments/assets/c6b3be20-88e8-4747-b9e5-5fbaef1ed86e">
+<img src="https://github.com/user-attachments/assets/33ceb922-ebb3-40d6-b612-e144a5464c88">
+<img src="https://github.com/user-attachments/assets/50b9afd0-8a13-4721-a648-eee5f14ab101">  
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+<img src="https://github.com/user-attachments/assets/6fda6135-4779-4954-be4a-e6cce145f264">
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+<img src="https://github.com/user-attachments/assets/11f2ba75-22ed-48d2-9900-d984494cc420">
+</p>
+
+<br/>
 
 
